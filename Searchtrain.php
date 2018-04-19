@@ -5,7 +5,6 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
 
-<!-- Mirrored from trendingtemplates.com/demos/trips/shortcodes-pricing-table.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Apr 2016 19:24:53 GMT -->
 <head>
 
     <meta charset="utf-8">
@@ -103,14 +102,7 @@
 
 
 <?php
-	/*
-		author: Belal Khan 
-		website: https://www.simplifiedcoding.net
-		
-		My Database is androiddb 
-		you need to change the database name rest the things are default if you are using wamp or xampp server
-		You may need to change the host user name or password if you have changed the defaults in your server
-	*/
+	
 	
 	//Defining Constants
 		define('SERVER','mysql12.000webhost.com');
@@ -301,5 +293,4 @@ $con->close();
 
 </body>
 
-<!-- Mirrored from trendingtemplates.com/demos/trips/shortcodes-pricing-table.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Apr 2016 19:24:53 GMT -->
 </html>

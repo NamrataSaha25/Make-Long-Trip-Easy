@@ -5,7 +5,7 @@
 <!--[if (gte IE 9)|!(IE)]><!--><html lang="en"> <!--<![endif]-->
 
 
-<!-- Mirrored from trendingtemplates.com/demos/trips/shortcodes-list.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Apr 2016 19:24:53 GMT -->
+
 <head>
 
     <meta charset="utf-8">
@@ -278,5 +278,4 @@ $con->close();
 
 </body>
 
-<!-- Mirrored from trendingtemplates.com/demos/trips/shortcodes-pricing-table.html by HTTrack Website Copier/3.x [XR&CO'2014], Tue, 19 Apr 2016 19:24:53 GMT -->
 </html>
